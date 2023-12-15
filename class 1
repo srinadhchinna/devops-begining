@@ -1,0 +1,6 @@
+Linux regular commands:
+Uname - to know our operation system
+pwd- to know present working directory
+command --help (to know all commands related to specific command)   example: uname --help (we will get uname related commands)
+history - to check history 
+ls -l (to check files in alphabetic order), ls -lr (to check files in reverse order), ls -lt( to check files with latest timings), ls -ltr ( to check rvererse time )
